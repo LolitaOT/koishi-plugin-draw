@@ -1,0 +1,20 @@
+{
+  "name": "超能力",
+  "template": "{0}",
+  "itemTemplate": "{0}\n你可以{1},但是{2}",
+  "defaultCount": 1,
+  "resources": [{
+    "type": "txt",
+    "datas": [["看看抽到了什么","让我康康你抽到了啥"],["http"]],
+    "weight": []
+  }, {
+    "type": "txt",
+    "datas": [["1"],["2"],["3"],["4"],["5"]],
+    "weight": []
+  }, {
+    "type": "txt",
+    "datas": [["6"],["7"],["8"],["9"],["10"]],
+    "weight": []
+  }],
+  "guaranteed": []
+}

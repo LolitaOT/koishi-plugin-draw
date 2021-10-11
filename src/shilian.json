@@ -1,0 +1,12 @@
+{
+  "name": "十连模拟",
+  "template": "本次十连结果如下：\n{0}",
+  "itemTemplate": "{0}",
+  "defaultCount": 10,
+  "resources": [{
+    "type": "image",
+    "datas": ["./random-image"],
+    "weight": []
+  }],
+  "guaranteed": [0,1,10]
+}

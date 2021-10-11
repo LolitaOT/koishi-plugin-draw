@@ -1,5 +1,0 @@
-{
-  "name": "demo 1",
-  "template": "$1\n$2",
-  "resources": [["道具1","道具2","道具3"], "./image"]
-}
